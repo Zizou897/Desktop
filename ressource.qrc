@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="img">
+    <file>assets/angel.png</file>
+    <file>assets/bg.jpg</file>
+    <file>assets/pngwing.com.png</file>
+    <file>assets/4092564-about-mobile-ui-profile-ui-user-website_114033.png</file>
+    <file>assets/masque.jpg</file>
+    <file>assets/user1.png</file>
+    <file>assets/amoirie1.png</file>
+    <file>assets/wallpaper 1.jpg</file>
+    <file>assets/wallpaper2.jpg</file>
+    <file>assets/pngwing.com (1).png</file>
+    <file>assets/user.png</file>
+    <file>assets/nigeria.png</file>
+    <file>assets/amoirie.png</file>
+  </qresource>
+</RCC>

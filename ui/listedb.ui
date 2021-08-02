@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>804</width>
-    <height>586</height>
+    <width>813</width>
+    <height>658</height>
    </rect>
   </property>
   <property name="font">
@@ -28,8 +28,8 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>20</y>
+      <x>210</x>
+      <y>50</y>
       <width>421</width>
       <height>51</height>
      </rect>
@@ -61,8 +61,8 @@ border-radius:10px</string>
    <widget class="QTableWidget" name="table">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>200</y>
+      <x>60</x>
+      <y>230</y>
       <width>691</width>
       <height>241</height>
      </rect>
@@ -120,8 +120,8 @@ background:#fff</string>
    <widget class="QLineEdit" name="searchNom">
     <property name="geometry">
      <rect>
-      <x>410</x>
-      <y>140</y>
+      <x>420</x>
+      <y>170</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -136,8 +136,8 @@ background:#fff</string>
    <widget class="QPushButton" name="buttonSearch">
     <property name="geometry">
      <rect>
-      <x>530</x>
-      <y>140</y>
+      <x>540</x>
+      <y>170</y>
       <width>51</width>
       <height>31</height>
      </rect>
@@ -163,8 +163,8 @@ border-radius:0 10px 10px 0;</string>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>230</x>
-      <y>140</y>
+      <x>240</x>
+      <y>170</y>
       <width>151</width>
       <height>31</height>
      </rect>
@@ -182,12 +182,15 @@ border-radius:0 10px 10px 0;</string>
     <property name="text">
      <string>Recherche par Nom</string>
     </property>
+    <property name="alignment">
+     <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+    </property>
    </widget>
    <widget class="QPushButton" name="buttonSuppr">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>480</y>
+      <x>210</x>
+      <y>510</y>
       <width>101</width>
       <height>51</height>
      </rect>
@@ -213,8 +216,8 @@ border-radius:5px
    <widget class="QPushButton" name="buttonApercu">
     <property name="geometry">
      <rect>
-      <x>380</x>
-      <y>480</y>
+      <x>390</x>
+      <y>510</y>
       <width>101</width>
       <height>51</height>
      </rect>
@@ -240,8 +243,8 @@ border-radius:5px
    <widget class="QPushButton" name="buttonModif">
     <property name="geometry">
      <rect>
-      <x>560</x>
-      <y>480</y>
+      <x>570</x>
+      <y>510</y>
       <width>101</width>
       <height>51</height>
      </rect>
@@ -270,8 +273,8 @@ border-radius:5px
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>804</width>
-     <height>20</height>
+     <width>813</width>
+     <height>22</height>
     </rect>
    </property>
   </widget>
